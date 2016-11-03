@@ -26,7 +26,7 @@ To pull in patches from `upstream`, run:
 
     $ git pull upstream master && git push origin master
 
-Don't forget to replace **username** and **template** in these files to reflect your changes to the role!**
+Don't forget to replace **username** and **template** in these files to reflect your changes to the role!
  - `README.md`
  - `meta/main.yml`
  - `.travis.yml`
